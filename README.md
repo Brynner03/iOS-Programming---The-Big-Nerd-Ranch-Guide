@@ -18,80 +18,87 @@ Welcome to my repository for tracking my progress as I work through the 7th edit
 
 ## Chapters
 
-1. **Introduction to Xcode and Interface Builder**
-   *Explore the basics of Xcode and Interface Builder.*
-   *Set up your development environment and get ready to build your first app.*
+1. **A Simple iOS Application**
+   - Learn how to create a basic iOS application.
+   - Understand the fundamental structure and components.
 
-2. **Swift Programming**
-   *Delve into the Swift language, covering its syntax, data types, and control structures.*
-   *Lay the foundation for iOS development.*
+2. **The Swift Language**
+   - Dive into the Swift programming language.
+   - Cover syntax, data types, and control structures.
 
-3. **Your First iOS Application**
-   *Put your Swift skills to use by creating a simple iOS application.*
-   *Understand the MVC pattern and build user interfaces.*
+3. **Views and View Hierarchy**
+   - Explore the concept of views in iOS.
+   - Understand the view hierarchy and build user interfaces.
 
-4. **The Swift Type System**
-   *Take a deep dive into Swift's type system, generics, optionals, and error handling.*
+4. **View Controllers**
+   - Gain insights into view controllers and navigation.
+   - Understand the Model-View-Controller architecture.
 
-5. **Auto Layout**
-   *Learn how to create responsive user interfaces using Auto Layout and Size Classes.*
+5. **Programmatic Views**
+   - Discover how to create views programmatically.
+   - Gain more control over your user interface.
 
-6. **View Controllers**
-   *Focus on view controllers, navigation, and the Model-View-Controller architecture.*
+6. **Text Input and Delegation**
+   - Learn about handling text input and delegation.
+   - Effectively manage user interactions.
 
-7. **Views and Animations**
-   *Explore the world of custom views, animations, and gesture recognizers.*
+7. **Internationalization and Localization**
+   - Make your app accessible globally.
+   - Implement internationalization and localization.
 
-8. **Table Views**
-   *Master the art of table views, data source and delegate protocols, and custom table view cells.*
+8. **Debugging**
+   - Master debugging techniques to identify and solve issues.
 
-9. **Stack Views**
-   *Understand stack views for easy layout management and adapting to different screen sizes.*
+9. **UITableView and UITableViewController**
+   - Explore UITableView and UITableViewController classes.
+   - Display structured data effectively.
 
-10. **Tab Bars and Collection Views**
-    *Create tab bar interfaces and work with collection views for versatile content displays.*
+10. **Subclassing UITableViewCell**
+    - Customize table view cells through subclassing.
 
-11. **Core Data: Your App's Back-End**
-    *Introduce Core Data for managing app data and persistent storage.*
+11. **Stack Views**
+    - Use stack views for adaptive and responsive layouts.
 
-12. **Intermediate Swift**
-    *Go deeper into Swift language features and advanced techniques.*
+12. **Navigation Controller**
+    - Understand navigation controllers and hierarchical flows.
 
-13. **Camera and Photos: Making Memories**
-    *Incorporate the device's camera and photo library into your app.*
+13. **Saving, Loading, and Scene States**
+    - Learn to save, load, and maintain scene states.
 
-14. **UIKit and the Touch Subsystem**
-    *Gain insights into how UIKit works with touch events and handling user interactions.*
+14. **Camera**
+    - Integrate the device's camera and interact with the photo library.
 
-15. **Networking: Fetching Data from the Web**
-    *Connect to web services, handle JSON data, and perform asynchronous networking.*
+15. **Adaptive Interfaces**
+    - Create interfaces adaptable to different devices and orientations.
 
-16. **More About Auto Layout**
-    *Further explore Auto Layout with practical examples and advanced techniques.*
+16. **Extensions and Container View Controllers**
+    - Extend functionality with extensions.
+    - Explore container view controllers for complex UIs.
 
-17. **Web Services and UIWebView**
-    *Integrate web content into your app using UIWebView.*
+17. **Custom Controls**
+    - Build custom UI controls for unique user experiences.
 
-18. **Scrolling and Multithreading**
-    *Enhance scrolling performance and manage concurrency in your app.*
+18. **Controlling Animations**
+    - Gain control over animations for dynamic UI interactions.
 
-19. **Intermediate and Adaptive UI**
-    *Adapt your user interface for various devices and orientations.*
+19. **Web Services**
+    - Connect your app to web services and retrieve data.
 
-20. **Animation and Drawing**
-    *Create dynamic animations and custom graphics using Core Animation.*
+20. **Collection Views**
+    - Explore collection views for flexible data display.
 
-21. **OpenGL ES: Drawing with OpenGL**
-    *Get an introduction to OpenGL ES for advanced graphics and rendering.*
+21. **Core Data**
+    - Introduce Core Data for persistent storage and data management.
 
-22. **Core Animation Layers**
-    *Take an in-depth look at Core Animation layers and advanced animation techniques.*
+22. **Core Data Relationships**
+    - Dive deeper into Core Data relationships between data entities.
 
-23. **Touch Events and UIResponder**
-    *Understand touch events and UIResponder for interactive app experiences.*
+23. **Accessibility**
+    - Make your app accessible following best practices.
 
-24. **UINavigationController**
-    *Dig into UINavigationController for effective app navigation.*
+24. **Afterword**
+    - Conclude the journey with final thoughts.
+
 ## Progress
 
 Below is the list of chapters I've completed. As I finish each chapter, I'll mark it here.
