@@ -103,32 +103,30 @@ Welcome to my repository for tracking my progress as I work through the 7th edit
 
 Below is the list of chapters I've completed. As I finish each chapter, I'll mark it here.
 
-- [x] Chapter 1 - Introduction to Xcode and Interface Builder
-- [ ] Chapter 2 - Swift Programming
-- [ ] Chapter 3 - Your First iOS Application
-- [ ] Chapter 4 - The Swift Type System
-- [ ] Chapter 5 - Auto Layout
-- [ ] Chapter 6 - View Controllers
-- [ ] Chapter 7 - Views and Animations
-- [ ] Chapter 8 - Table Views
-- [ ] Chapter 9 - Stack Views
-- [ ] Chapter 10 - Tab Bars and Collection Views
-- [ ] Chapter 11 - Core Data: Your App's Back-End
-- [ ] Chapter 12 - Intermediate Swift
-- [ ] Chapter 13 - Camera and Photos: Making Memories
-- [ ] Chapter 14 - UIKit and the Touch Subsystem
-- [ ] Chapter 15 - Networking: Fetching Data from the Web
-- [ ] Chapter 16 - More About Auto Layout
-- [ ] Chapter 17 - Web Services and UIWebView
-- [ ] Chapter 18 - Scrolling and Multithreading
-- [ ] Chapter 19 - Intermediate and Adaptive UI
-- [ ] Chapter 20 - Animation and Drawing
-- [ ] Chapter 21 - OpenGL ES: Drawing with OpenGL
-- [ ] Chapter 22 - Core Animation Layers
-- [ ] Chapter 23 - Touch Events and UIResponder
-- [ ] Chapter 24 - UINavigationController
-
-<!-- Update the list above as you complete more chapters -->
+- [x] Chapter 1 - A Simple iOS Application
+- [ ] Chapter 2 - The Swift Language
+- [ ] Chapter 3 - Views and View Hierarchy
+- [ ] Chapter 4 - View Controllers
+- [ ] Chapter 5 - Programmatic Views
+- [ ] Chapter 6 - Text Input and Delegation
+- [ ] Chapter 7 - Internationalization and Localization
+- [ ] Chapter 8 - Debugging
+- [ ] Chapter 9 - UITableView and UITableViewController
+- [ ] Chapter 10 - Subclassing UITableViewCell
+- [ ] Chapter 11 - Stack Views
+- [ ] Chapter 12 - Navigation Controller
+- [ ] Chapter 13 - Saving, Loading, and Scene States
+- [ ] Chapter 14 - Camera
+- [ ] Chapter 15 - Adaptive Interfaces
+- [ ] Chapter 16 - Extensions and Container View Controllers
+- [ ] Chapter 17 - Custom Controls
+- [ ] Chapter 18 - Controlling Animations
+- [ ] Chapter 19 - Web Services
+- [ ] Chapter 20 - Collection Views
+- [ ] Chapter 21 - Core Data
+- [ ] Chapter 22 - Core Data Relationships
+- [ ] Chapter 23 - Accessibility
+- [ ] Chapter 24 - Afterword
 
 ## Getting Started
 
