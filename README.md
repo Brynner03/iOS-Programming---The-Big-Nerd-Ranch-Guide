@@ -104,7 +104,7 @@ Welcome to my repository for tracking my progress as I work through the 7th edit
 Below is the list of chapters I've completed. As I finish each chapter, I'll mark it here.
 
 - [x] Chapter 1 - A Simple iOS Application
-- [ ] Chapter 2 - The Swift Language
+- [x] Chapter 2 - The Swift Language
 - [ ] Chapter 3 - Views and View Hierarchy
 - [ ] Chapter 4 - View Controllers
 - [ ] Chapter 5 - Programmatic Views
