@@ -2,7 +2,7 @@
 
 [![Last Commit](https://img.shields.io/github/last-commit/Brynner03/iOS-Programming---The-Big-Nerd-Ranch-Guide)](https://github.com/Brynner03/iOS-Programming---The-Big-Nerd-Ranch-Guide/commits/main)
 
-![iOS Programming](./Repo-Image/BigNerdRanch.jpg)
+![iOS Programming](./Repo-Image/BigNerdRanch.jpg){:width="500px" height="375px"}
 
 Welcome to my repository for tracking my progress as I work through the 7th edition of "iOS Programming: The Big Nerd Ranch Guide." This repository serves as a place to keep a record of the chapters I've completed and the concepts I've learned along the way. As I journey through the book, I'll update this README to reflect my progress.
 
@@ -136,10 +136,6 @@ To follow along with my progress or contribute to this repository:
 ## Contributing
 
 If you're also going through the book or have suggestions to enhance my learning journey, I welcome your contributions! Feel free to open issues, provide feedback, or suggest improvements.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and share the content while providing attribution.
 
 ---
 
