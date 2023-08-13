@@ -106,7 +106,7 @@ Below is the list of chapters I've completed. As I finish each chapter, I'll mar
 - [x] Chapter 1 - A Simple iOS Application
 - [x] Chapter 2 - The Swift Language
 - [x] Chapter 3 - Views and View Hierarchy
-- [ ] Chapter 4 - View Controllers
+- [x] Chapter 4 - View Controllers
 - [ ] Chapter 5 - Programmatic Views
 - [ ] Chapter 6 - Text Input and Delegation
 - [ ] Chapter 7 - Internationalization and Localization
