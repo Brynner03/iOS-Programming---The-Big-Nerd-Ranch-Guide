@@ -109,7 +109,7 @@ Below is the list of chapters I've completed. As I finish each chapter, I'll mar
 - [x] Chapter 4 - View Controllers
 - [x] Chapter 5 - Programmatic Views
 - [x] Chapter 6 - Text Input and Delegation
-- [ ] Chapter 7 - Internationalization and Localization
+- [x] Chapter 7 - Internationalization and Localization
 - [ ] Chapter 8 - Debugging
 - [ ] Chapter 9 - UITableView and UITableViewController
 - [ ] Chapter 10 - Subclassing UITableViewCell
