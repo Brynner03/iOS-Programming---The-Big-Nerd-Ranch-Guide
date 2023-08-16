@@ -26,9 +26,8 @@ class ViewController: UIViewController {
         for i in 0..<10 {
             array.insert(i, at: i)
         }
-        
-        // Go one step too far emptying the array (notice the range change):
-        for _ in 0...10 {
+
+        for _ in 0..<10 {
             array.removeObject(at: 0)
         }
     }

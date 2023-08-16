@@ -1,4 +1,4 @@
-# iOS Programming - The Big Nerd Ranch Guide Tracker: 7th Edition
+k# iOS Programming - The Big Nerd Ranch Guide Tracker: 7th Edition
 
 [![Last Commit](https://img.shields.io/github/last-commit/Brynner03/iOS-Programming---The-Big-Nerd-Ranch-Guide)](https://github.com/Brynner03/iOS-Programming---The-Big-Nerd-Ranch-Guide/commits/main)
 
@@ -110,7 +110,7 @@ Below is the list of chapters I've completed. As I finish each chapter, I'll mar
 - [x] Chapter 5 - Programmatic Views
 - [x] Chapter 6 - Text Input and Delegation
 - [x] Chapter 7 - Internationalization and Localization
-- [ ] Chapter 8 - Debugging
+- [x] Chapter 8 - Debugging
 - [ ] Chapter 9 - UITableView and UITableViewController
 - [ ] Chapter 10 - Subclassing UITableViewCell
 - [ ] Chapter 11 - Stack Views
