@@ -112,7 +112,7 @@ Below is the list of chapters I've completed. As I finish each chapter, I'll mar
 - [x] Chapter 7 - Internationalization and Localization
 - [x] Chapter 8 - Debugging
 - [x] Chapter 9 - UITableView and UITableViewController
-- [ ] Chapter 10 - Subclassing UITableViewCell
+- [x] Chapter 10 - Subclassing UITableViewCell
 - [ ] Chapter 11 - Stack Views
 - [ ] Chapter 12 - Navigation Controller
 - [ ] Chapter 13 - Saving, Loading, and Scene States
